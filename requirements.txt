@@ -4,6 +4,7 @@ pandas
 datasets
 gdown
 dvc
+fsspec==2022.11.0
 mlflow
 notebook
 numpy
